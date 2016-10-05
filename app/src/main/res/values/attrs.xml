@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="linecolor" format="color"/>
+    <attr name="circlewidth" format="dimension"/>
+    <declare-styleable name="UpDateView">
+        <attr name="linecolor"/>
+        <attr name="circlewidth"/>
+    </declare-styleable>
+</resources>
